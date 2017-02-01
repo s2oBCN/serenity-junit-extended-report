@@ -1,0 +1,12 @@
+.gradle/
+build/
+classes/
+gradle/wrapper/
+target/
+gradlew
+gradlew.bat
+*.log
+.idea
+*.ipr
+d:/
+fharts/
