@@ -20,7 +20,6 @@ Scenario: kdasñkdadska
 Given don pepito and don Jose
 When don Jose says 'hola don Pepito'
 Then don Pepito reponds 'hola don Jose'
-alert(s);
 ```
 
 an its xUnit xml:
@@ -40,5 +39,5 @@ an its xUnit xml:
         <testcase name="don jose says 'hola don Pepito'"/>
         <testcase name="don Pepito reponds 'hola don Jose'"/>
     </testsuite>
-<testsuites/>    
+</testsuites>    
 ```    
